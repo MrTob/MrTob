@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtob" alt="mrtob" /> </p>
 
-- 🔭 I still go to college at the moment **HTL Perg**
-
-- 🌱 I’m currently learning **The different facets of software development**
-
   ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
