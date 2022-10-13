@@ -1,7 +1,3 @@
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MrTob</h1>
-<h3 align="center">A student from Austria who is interested in software development</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtob" alt="mrtob" /> </p>
 
   ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -18,14 +14,6 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-000?J&logo=oracle&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-000?J&logo=spring&logoColor=1e940c)
  
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrtob&show_icons=true" alt="mrtob" /> </p>
-
-
-<a href="https://github.com/mrtob/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtob&layout=compact" />
-</a>
 
 
 
