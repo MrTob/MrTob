@@ -14,6 +14,14 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-000?J&logo=oracle&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-000?J&logo=spring&logoColor=1e940c)
  
+#### 🌟 Open Source Contributions
+I enjoy contributing to the open-source community and have had the privilege of collaborating on projects like:
+
+- **[maybe-os](https://github.com/maybe-finance/maybe):** A modern platform for your personal finances 
+  - Contributed to improving the rendering of [percentage values](https://github.com/maybe-finance/maybe/commit/ae9287ec9bb1fde3e2714f253201e21334629d8b)
+
+- **[prime-ng](https://github.com/primefaces/primeng):** A popular UI component library for Angular applications.  
+  - Fixed a typo in the docs for the new [theming](https://github.com/primefaces/primeng/commit/91ced392e0980dd7299c4adbef2ae11e43f76503)
 
 
 
