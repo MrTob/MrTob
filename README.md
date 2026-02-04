@@ -22,6 +22,9 @@ I enjoy contributing to the open-source community and have had the privilege of 
 
 - **[prime-ng](https://github.com/primefaces/primeng):** A popular UI component library for Angular applications.  
   - Fixed a typo in the docs for the new [theming](https://github.com/primefaces/primeng/commit/91ced392e0980dd7299c4adbef2ae11e43f76503)
+ 
+- **[sure](https://github.com/we-promise/sure):** The personal finance app for everyone.
+  - Improved [onboarding flow for new users](https://github.com/we-promise/sure/commit/9a9ebb147b03ca211b433889f672135db2fe76eb)
 
 
 
